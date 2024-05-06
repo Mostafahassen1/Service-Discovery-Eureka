@@ -1,3 +1,3 @@
 # Service-Discovery-Eureka
 
-![image](https://github.com/Mostafahassen1/Service-Discovery-Eureka/assets/134046265/bb1091fb-b88d-4af5-8fbe-235f8ff69522)
+![image](https://github.com/Mostafahassen1/Service-Discovery-Eureka/assets/134046265/c3b9e5dd-a83e-4738-84d9-6d1c6d712910)
